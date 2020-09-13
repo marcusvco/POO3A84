@@ -1,0 +1,15 @@
+C:\Users\enzic\Desktop\disgraça OO\POO3A84\POO3A84\obj\Debug\POO3A84.csprojAssemblyReference.cache
+C:\Users\enzic\Desktop\disgraça OO\POO3A84\POO3A84\obj\Debug\POO3A84.musica.resources
+C:\Users\enzic\Desktop\disgraça OO\POO3A84\POO3A84\obj\Debug\POO3A84.Properties.Resources.resources
+C:\Users\enzic\Desktop\disgraça OO\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.GenerateResource.cache
+C:\Users\enzic\Desktop\disgraça OO\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.CoreCompileInputs.cache
+C:\Users\marca\Desktop\ENZO\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csprojAssemblyReference.cache
+C:\Users\marca\Desktop\ENZO\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.musica.resources
+C:\Users\marca\Desktop\ENZO\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.Properties.Resources.resources
+C:\Users\marca\Desktop\ENZO\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.GenerateResource.cache
+C:\Users\marca\Desktop\ENZO\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.CoreCompileInputs.cache
+C:\Users\marca\Desktop\POO3A84\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csprojAssemblyReference.cache
+C:\Users\marca\Desktop\POO3A84\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.musica.resources
+C:\Users\marca\Desktop\POO3A84\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.Properties.Resources.resources
+C:\Users\marca\Desktop\POO3A84\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.GenerateResource.cache
+C:\Users\marca\Desktop\POO3A84\POO3A84-master\POO3A84\POO3A84\obj\Debug\POO3A84.csproj.CoreCompileInputs.cache
